@@ -1,14 +1,12 @@
 # Retail-Sales-Customer-Insights
 This Retail Sales &amp; Customer Insights Dashboard provides a comprehensive view of business performance by integrating data processing, analysis, and visualization using Python, SQL, and Power BI.
 
-Retail Sales & Customer Insights – Data Analytics Project
-
-Overview
+# Overview
 This project delivers an end-to-end data analytics solution for retail sales data using Python, PostgreSQL (SQL), and Power BI.
 The objective was to analyze sales performance, customer behavior, product trends, and operational metrics, and present actionable business insights through an interactive dashboard.
 The project demonstrates the complete analytics workflow — from raw data processing to executive-level reporting.
 
-Dataset
+# Dataset
 The dataset contains retail transactional data including:
 •	Orders and sales information
 •	Product categories and sub-categories
@@ -17,13 +15,13 @@ The dataset contains retail transactional data including:
 •	Shipping details
 •	Order dates and quantities
 
-Tools & Technologies Used
+# Tools & Technologies Used
 •	Python – Data loading, cleaning, preprocessing, and EDA
 •	Pandas, NumPy – Data manipulation
 •	PostgreSQL – Writing and executing SQL queries for business analysis
 •	Power BI – Building interactive dashboards and KPI reporting
 
-Steps
+# Steps
 Step 1: Data Loading (Python)
 1.	Imported dataset into Python
 2.	Checked structure, data types, and missing values
@@ -63,7 +61,7 @@ Step 5: Power BI Dashboard
 11.	Customer segmentation
 12.	Shipping performance
 
-Dashboard Highlights
+# Dashboard Highlights
 •	₹2M+ Total Sales
 •	~10K Orders
 •	Strong Q4 seasonal growth
